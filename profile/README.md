@@ -27,7 +27,6 @@ Below are exemplary implementations of the Document Question Answering System de
 
 * **Popeyes** — [github.com/UIC-CS480-Fall2025/popeyes](https://github.com/UIC-CS480-Fall2025/popeyes)
 * **Dash** — [github.com/UIC-CS480-Fall2025/dash](https://github.com/UIC-CS480-Fall2025/dash)
-* **Vector Vault** — [github.com/UIC-CS480-Fall2025/vector-vault](https://github.com/UIC-CS480-Fall2025/vector-vault)
 * **Data Dumpsters** — [github.com/UIC-CS480-Fall2025/data-dumpsters](https://github.com/UIC-CS480-Fall2025/data-dumpsters)
 * **No SQL** — [github.com/UIC-CS480-Fall2025/no-sql](https://github.com/UIC-CS480-Fall2025/no-sql)
 * **The Great Neutral Team** — [github.com/UIC-CS480-Fall2025/the-great-neutral-team](https://github.com/UIC-CS480-Fall2025/the-great-neutral-team) 
